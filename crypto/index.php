@@ -9,16 +9,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crypto</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
 <section class="Nav-Section">
-  <div class="Our-Logo/Name">
+  <div class="Our-Logo-Name">
     N/A
   </div>
   <div>
-    <button class="Main">N/A</button>
-    <button class="Info">N/A</button>
-    <button class="meme">N/A</button>
+    <button class="Main-Nav-Button">N/A</button>
+    <button class="Info-Nav-Button">N/A</button>
+    <button class="meme-Nav-Button">N/A</button>
   </div>
 </section>
 <section class="Main-crypto">

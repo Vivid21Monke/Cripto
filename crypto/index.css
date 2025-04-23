@@ -24,7 +24,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
+    background-color: #eeeded;
 }
 ol, ul {
 	list-style: none;
@@ -40,4 +41,33 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+
+.Nav-Section{
+    display: flex;
+  flex-direction: row;
+  padding: 15px;
+  background-image: linear-gradient(to right, #CADCFC, #00246B);
+  align-items: center;
+  height: 50px;
+  border: solid;
+  border-width: 0.5px;
+}
+.Our-Logo-Name{
+padding-right: 100px;
+}
+.Main-Nav-Button, .Info-Nav-Button, .meme-Nav-Button{
+    margin: 20px;
+}
+.Main-crypto{
+    display: block;
+    margin: 40px;
+    background-color: white;
+    border-radius: 8px;
+    height: 500px;
+    width: 60%;
+}
+.curency-individual{
+    padding: 10px;
 }
