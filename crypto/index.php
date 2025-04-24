@@ -30,14 +30,16 @@
 
   <!--  Crypto Main/Price  -->
   <div class="container__main__crypto">
-    <div class="container__Crypto__Name">
-      N/A
-    </div>
-      <div class="container__price__graph">
-        <div>
-          Price:N/A
+    <div>
+      <div class="container__Crypto__Name">
+        N/A
+      </div>
+        <div class="container__price__graph">
+          <div>
+            Price:N/A
+          </div>
+          Graph Placeholder
         </div>
-        Graph Placeholder
       </div>
   </div>
 </body>
