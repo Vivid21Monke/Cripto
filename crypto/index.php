@@ -30,7 +30,7 @@
 
   <!--  Crypto Main/Price  -->
   <div class="container__main__crypto">
-    <div>
+    <div class="container__Border__all">
       <div class="container__Crypto__Name">
         N/A
       </div>
