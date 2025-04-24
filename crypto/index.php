@@ -29,6 +29,7 @@
   </div>
 
   <!--  Crypto Main/Price  -->
+  
   <div class="container__main__crypto">
     <div class="container__Border__all">
       <div class="container__Crypto__Name">
@@ -40,7 +41,7 @@
           </div>
           Graph Placeholder
         </div>
-      </div>
   </div>
+</div>
 </body>
 </html>

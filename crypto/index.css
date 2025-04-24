@@ -65,11 +65,7 @@ box-sizing: border-box;
   border: solid;
   border-color: #ADBBDA;
   border-width: 0.5px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-  width: 95%;
-  margin-right: 2rem;
-  margin-left: 2rem;
+  width: 100%;
 }
 .Our-Logo-Name{
 padding-right: 100px;
@@ -78,7 +74,8 @@ padding-right: 100px;
     margin: 20px;
 }
 .container__main__crypto{
-    display: block;
+    display: flex;
+    flex-direction: row;
     margin-top: 40px;
     background-color: white;
     border-radius: 8px;
@@ -88,4 +85,9 @@ padding-right: 100px;
 }
 .curency-individual{
     padding: 10px;
+}
+.container__Border__all{
+    margin: 20px;
+    border: solid;
+    border-width: .5px;
 }
