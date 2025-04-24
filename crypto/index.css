@@ -61,13 +61,15 @@ box-sizing: border-box;
   padding: 15px;
   background-color: white;
   align-items: center;
-  height: 50px;
+  height: 80px;
   border: solid;
   border-color: #ADBBDA;
   border-width: 0.5px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  width: 100%;
+  width: 95%;
+  margin-right: 2rem;
+  margin-left: 2rem;
 }
 .Our-Logo-Name{
 padding-right: 100px;
@@ -75,13 +77,14 @@ padding-right: 100px;
 .Main-Nav-Button, .Info-Nav-Button, .meme-Nav-Button{
     margin: 20px;
 }
-.Main-crypto{
+.container__main__crypto{
     display: block;
     margin-top: 40px;
     background-color: white;
     border-radius: 8px;
     height: 80%;
     width: 60%;
+    margin-left: 2rem;
 }
 .curency-individual{
     padding: 10px;
