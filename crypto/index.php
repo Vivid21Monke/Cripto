@@ -12,24 +12,19 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-<section class="Nav-Section">
-  <div class="Our-Logo-Name">
-    N/A
-  </div>
-  <div>
-    <button class="Main-Nav-Button">N/A</button>
-    <button class="Info-Nav-Button">N/A</button>
-    <button class="meme-Nav-Button">N/A</button>
-  </div>
-</section>
-<section class="Main-crypto">
-  <div class="Big-section">
-    <div class="curency-big">
-      <div class="curency-individual">
+  <div class="container">
+
+     <!--  navigation  -->
+    <div class="container__nav">
+      <div class="Our-Logo-Name">
         N/A
       </div>
-    </div>
+      <div class="conntainer__nav__buttons">
+        <button class="Main-Nav-Button">N/A</button>
+        <button class="Info-Nav-Button">N/A</button>
+        <button class="meme-Nav-Button">N/A</button>
+      </div>
+    <div>
   </div>
-</section>
 </body>
 </html>

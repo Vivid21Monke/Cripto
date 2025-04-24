@@ -24,8 +24,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-    line-height: 1;
-    background-color: #eeeded;
+    margin: 0px;
+    padding:0px;
 }
 ol, ul {
 	list-style: none;
@@ -44,15 +44,30 @@ table {
 }
 
 
-.Nav-Section{
-    display: flex;
+
+.container{
+    line-height: 1;
+    background-color: #eeeded;
+    background-image: linear-gradient(135deg, #5ab9ea, #9960d0);
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.container__nav{
+box-sizing: border-box;
+  display: flex;
   flex-direction: row;
   padding: 15px;
-  background-image: linear-gradient(to right, #CADCFC, #00246B);
+  background-color: white;
   align-items: center;
   height: 50px;
   border: solid;
+  border-color: #ADBBDA;
   border-width: 0.5px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  width: 100%;
 }
 .Our-Logo-Name{
 padding-right: 100px;
@@ -62,15 +77,12 @@ padding-right: 100px;
 }
 .Main-crypto{
     display: block;
-    margin: 40px;
+    margin-top: 40px;
     background-color: white;
     border-radius: 8px;
-    height: 800px;
+    height: 80%;
     width: 60%;
 }
 .curency-individual{
     padding: 10px;
 }
-body {
-    background-image: url("IMG/stock.jpg");;
-   }
